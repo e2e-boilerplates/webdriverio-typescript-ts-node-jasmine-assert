@@ -1,5 +1,5 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "description": "WebdriverIO end-to-end test automation boilerplate, using TypeScript, ES6 modules, ts-node, Jasmine and Assert",
   "devDependencies": {
     "@types/jasmine": "3.5.8",
@@ -28,11 +28,6 @@
   },
   "keywords": [
     "assert",
-    "boilerplate",
-    "e2e",
-    "e2e tests",
-    "example",
-    "integration test",
     "jasmine",
     "ts-node",
     "typescript",
