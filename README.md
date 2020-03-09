@@ -6,7 +6,7 @@ WebdriverIO end-to-end test automation boilerplate, using TypeScript, ts-node, J
 
 ## Getting Started
 
-    	git clone git@github.com:e2e-boilerplate/webdriverio-typescript-ts-node-jasmine-assert.git
-    	cd webdriverio-typescript-ts-node-jasmine-assert
-    	npm install
-    	npm run test
+    	1. git clone git@github.com:e2e-boilerplate/webdriverio-typescript-ts-node-jasmine-assert.git
+    	2. cd webdriverio-typescript-ts-node-jasmine-assert
+    	3. npm install
+    	4. npm run test
