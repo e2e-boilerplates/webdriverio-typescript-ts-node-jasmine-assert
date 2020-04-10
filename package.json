@@ -19,11 +19,7 @@
   "devDependencies": {
     "@types/jasmine": "3.5.10",
     "@types/node": "13.11.1",
-<<<<<<< HEAD
-    "husky": "4.2.3",
-=======
     "husky": "4.2.5",
->>>>>>> ffbe6b0f1c2cabf277ee4831aa7c9bef68b6187b
     "lint-staged": "10.1.3",
     "prettier": "2.0.4",
     "tslint": "6.1.1",
